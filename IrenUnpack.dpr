@@ -1,4 +1,4 @@
-program InerUnpack;
+program IrenUnpack;
 
 {$APPTYPE CONSOLE}
 
@@ -149,10 +149,10 @@ begin
 end;
 
 begin
-  SetConsoleTitle('InerUnpack 1.0.0');
+  SetConsoleTitle('IrenUnpack 1.0.0');
 
   WriteLn('***********************************************************');
-  WriteLn('IrerProject.ru Base Unpacker | 1.0.0 | Alexander B. | 2017');
+  WriteLn('IrenProject.ru Base Unpacker | 1.0.0 | Alexander B. | 2017');
   WriteLn('***********************************************************');
   WriteLn;
 
